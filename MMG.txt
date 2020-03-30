@@ -1,0 +1,114 @@
+/*. imagen {
+    posición : fija;
+    derecha : 550 px ;
+    arriba : 250 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+
+. imagen1 {
+    posición : fija;
+    derecha : 130 px ;
+    arriba : 250 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+
+. imagen2 {
+    posición : fija;
+    derecha : -250 px;
+    arriba : 250 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+. imagen3 {
+    posición : fija;
+    derecha : -250 px;
+    arriba : 500 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+. imagen4 {
+    posición : fija;
+    derecha : 130 px ;
+    arriba : 500 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+. imagen5 {
+    posición : fija;
+    derecha : 550 px ;
+    arriba : 500 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+
+. texto {
+    posición : fija;
+    derecha : 475 px ;
+    arriba : 425 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+. texto1 {
+    posición : fija;
+    derecha : 100 px ;
+    arriba : 425 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+
+. texto2 {
+    posición : fija;
+    derecha : -270px;
+    arriba : 425 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+
+. texto3 {
+    posición : fija;
+    derecha : -250 px;
+    arriba : 675 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+
+. texto4 {
+    posición : fija;
+    derecha : 110 px ;
+    arriba : 660 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+. texto5 {
+    posición : fija;
+    derecha : 550 px ;
+    arriba : 675 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+}
+
+. titular {
+    posición : fija;
+    derecha : 325 px ;
+    arriba : 125 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}
+. boton {
+    posición : fija;
+    derecha : -600 px;
+    arriba : 10 px ;
+    ancho : 800 px ;
+    altura : 500 px ;
+
+}*/
+bgvaegflysadgljvbsdjvbjdsbvhjbdasvhjbhjdabvhjsdajvs;jbvg
